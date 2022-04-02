@@ -39,29 +39,30 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![x](https://github.com/Seanchenxy851/Codepath_prework/blob/main/ezgif.com-gif-maker.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/html/html_css.asp
+]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[The challenge that I have encountered was trying to figure out the meaning of each sections for different programing language, the most hard part was to understand the way of html runs, to be specific, the structure of the coding sections were giving me a hard time to read, however I saw some similar structure somewhere before, so I tried my best to understand it, but instead I can understand only a small part of the codes and how it would run, so I decided to look up for the online resources, where I end up search it up on google and found plenty of good resources that it explained a lot, and combine it with my own programing knowledge, I finaly understand it, and completed the optional features that I wanted to add, and during the searching process, I found out myself that I have learned a lot of more about how the websites runs based on the codes, and I tried to understand more and more with other websites, but only found out that I only know a little about it, and by that I wanted to learn more and more just to master it]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[The quesions that I have about web development after I have completed my submission is that, it makes me wonder more about how it would connect to the server and how it would transfer its data to data base, and how the data base would give back the feed backs to users, and how can we improve the usage of the websites, where I found out it was a bit of lagging, when doing the pre work project.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+[If I had a few more hours to work on this project, I would complete the optional features, and modify its game logic to my own version of it, because certain functions does not work well with some of the optional features, and by using my own version of the game logic, it would work just fine with the original game logic, and also adding up more fun features, such as more interactions with user, where it would not just tell the user it got wrong, but also it would change the background colors/picture, and make change with game speed, and better textures, such as better pictures, and audio assets, better user interface, such as the buttons can be sort of game buttons, not just a normal button, and make the game looks more like a actual game, etc]
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://ucsd.zoom.us/rec/share/t79WcuIk9-Wmf76KIKg1aW-cjhTB65YmE9z4WgezIslvoysdbZI27b-qTkK8HlIb.LLC5KUjL3qv4C4Ow?startTime=1648875556000)
 
 
 ## License
